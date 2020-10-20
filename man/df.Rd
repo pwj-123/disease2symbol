@@ -1,14 +1,11 @@
-\name{disease2symbol}
-\alias{disease2symbol}
+\name{df}
+\alias{df}
 %- Also NEED an '\alias' for EACH other topic documented here.
-\title{disease2symbol
+\title{df
 %%  ~~function to do ... ~~
 }
-\description{disease
+\description{some data
 %%  ~~ A concise (1-5 lines) description of what the function does. ~~
-}
-\usage{
-disease2symbol(x)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
@@ -19,7 +16,7 @@ disease2symbol(x)
 \details{none
 %%  ~~ If necessary, more details than the description above ~~
 }
-\value{gensymbol
+\value{return data
 %%  ~Describe the value returned
 %%  If it is a LIST, use
 %%  \item{comp1 }{Description of 'comp1'}
